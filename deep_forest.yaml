@@ -1,7 +1,7 @@
 Deep Forest:
   # Header:
   app-header-background-color: "#3F632D"
-  app-header-text-color: "#BDC1C6"
+  app-header-text-color: "#D7DBE0"
   # Main Interface Colors
   primary-color: "#3F632D"
   light-primary-color: var(--primary-color)
